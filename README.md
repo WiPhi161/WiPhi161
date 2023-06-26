@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @WiPhi161
-- 👀 I’m interested in Programming and learn more about our increasing digital world
 - 🌱 I’m currently learning Python, Unity, and C#
 - 💞️ I’m looking to collaborate on Game development projects
 
